@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <File Enabled="1" Path="CSharpTestLogger.txt"/>
+  <Database Enabled="1" Server="(localdb)\MSSQLLocalDB" Database="CSharpTestLoggerDatabase"/>
+</Config>
